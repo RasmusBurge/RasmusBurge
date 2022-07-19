@@ -1,2 +1,7 @@
-name: Hank Quinlan, Horrible Cop
+name: "Rasmus Burge"
 markdown: kramdown
+navbar:
+  title: "Rasmus Burge"
+  left:
+    - text: "Home"
+      href: index.html
