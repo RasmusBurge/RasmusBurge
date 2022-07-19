@@ -1,3 +1,3 @@
 # website
 
-Soon open this file: https://rasmusburge.io/website/index.html
+View it at: <https://rasmusburge.github.io/>
