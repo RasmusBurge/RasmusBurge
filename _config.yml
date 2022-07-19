@@ -1,10 +1,2 @@
----
-runtime: shiny
-output: html_document
----
-name: "Rasmus Burge"
-navbar:
-  title: "Rasmus Burge"
-  left:
-    - text: "Home"
-      href: index.html
+name: Hank Quinlan, Horrible Cop
+markdown: kramdown
