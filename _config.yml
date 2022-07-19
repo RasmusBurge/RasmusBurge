@@ -1,3 +1,7 @@
+---
+runtime: shiny
+output: html_document
+---
 name: "Rasmus Burge"
 markdown: kramdown
 navbar:
